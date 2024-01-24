@@ -9,7 +9,11 @@ My freelance engagements have deepened my expertise across the Software Developm
 
 ## Skillset:
 🌱 Expertise in React (including Next.js, Redux, React Query, Hooks, Context API), and proficient in UI frameworks like Bootstrap, Material-UI, Chakra-UI, and Tailwind CSS.
+
 🌱 Skilled in Node.js, Express.js, Nest.js, and various Headless CMS (Contentful, Strapi, sanity.io).
+
 🌱 Experienced with MongoDB and PostgreSQL.
+
 🌱 Familiar with AWS Services, Vercel, and Firebase.
+
 🌱 Competent in Mapbox, animation, charting, Stripe integration, Git, Swagger, Docker, and Agile/Scrum methodologies.
