@@ -1,4 +1,4 @@
-# Senior JavaScript/TypeScript Developer with over 8 years of experience
+# Senior JavaScript/TypeScript Developer
 
 ### Hi there 👋
 I specialize in building web applications using the MERN stack. Based in Danbury, Connecticut, my career spans a variety of projects, both in-house and remote, for startups, established companies, and top brands.
